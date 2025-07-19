@@ -1,4 +1,5 @@
-# 💬 Multi-Client Chat Application (Sasken Internship 2025)
+# 💬 Multi-Client Chat Application 
+*Sasken Internship Program 2025*
 
 A **multi-client chatroom application** built using **C++ socket programming** as part of the **Sasken Internship 2025** project. This project demonstrates the use of basic **TCP/IP socket programming**, **multithreading**, and **client-server architecture** using **Linux OS**.
 
