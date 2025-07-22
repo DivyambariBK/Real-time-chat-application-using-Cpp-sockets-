@@ -1,5 +1,7 @@
 # Chat Application with Group and Private Messaging 💬
 *Sasken Internship Program-2025*
+
+
 ## 🎯 Project Goal
 This project implements a **Terminal-Based Multi-Client Chat Application** using **TCP Sockets** and **Multithreading** in **C++**. The primary objective is to allow multiple clients to communicate with each other in real-time through group and private messages, while also maintaining a chat history log on the server side.
 
